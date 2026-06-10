@@ -86,7 +86,7 @@
     "vite-plugin-oxlint": "~2.0.1",
     "vite-plugin-vue-devtools": "~8.0.7",
     "vite-plugin-vuetify": "~2.1.1",
-    "vitest": "^4.0.10",
+    "vitest": "^4.1.0",
     "vue-auto-import-checker": "^1.1.0",
     "vue-tsc": "~2.2.6"
   },
